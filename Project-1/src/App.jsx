@@ -40,7 +40,7 @@ function App() {
     </div>
   </div>
 
-  <p>This is a sample application form.</p>
+  <p>This Application is created by Vicky Kumar patel</p>
     </div>
 
    
