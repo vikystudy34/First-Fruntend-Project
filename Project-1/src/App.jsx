@@ -10,7 +10,7 @@ function App() {
       <input type="text" placeholder="Enter Username" />
     </div>
     <div class="col-6">
-      <input type="date" placeholder="Enter Your Age here..." />
+      <input type="date" placeholder="dd-mm-yyyy" />
     </div>
   </div>
   <div class="row mb">
