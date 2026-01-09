@@ -42,7 +42,10 @@ function App() {
 
   <p>This Application is created by Vicky Kumar patel</p>
     </div>
-    <p>Golu bhaiya kaisa hai mera fruntend project abhi Esme data entry karne ke bad login pr click karne pr kuch kam nahi karega Kyoki abhi kuch bhi data database me add nahi hai ye bus login dashboard ka fruntend hai</p>
+    
+    <h4 className="golu">
+      <p>Golu bhaiya kaisa hai mera fruntend project abhi Esme data entry karne ke bad login pr click karne pr kuch kam nahi karega Kyoki abhi kuch bhi data database me add nahi hai ye bus login dashboard ka fruntend hai</p>
+    </h4>
    
   </center>
 }
