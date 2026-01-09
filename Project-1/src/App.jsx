@@ -39,7 +39,11 @@ function App() {
       <button type="button" class="btn btn-danger button">Reset</button>
     </div>
   </div>
+
+  <p>This is a sample application form.</p>
     </div>
+
+   
 
   </center>
 }
