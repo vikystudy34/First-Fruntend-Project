@@ -44,7 +44,7 @@ function App() {
     </div>
 
     <h4 className="golu">
-      Hello Santosh ji, welcome to React JS frontend development
+      Hello Vicky! Welcome to ReactJS. This is your first frontend application.
     </h4>
 
   </center>
