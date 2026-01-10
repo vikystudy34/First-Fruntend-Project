@@ -44,7 +44,7 @@ function App() {
     </div>
 
     <h4 className="golu">
-      <p>bhaiya kaisa hai mera fruntend project abhi Esme data entry karne ke bad login pr click karne pr kuch kam nahi karega Kyoki abhi kuch bhi data database me add nahi hai ye bus login dashboard ka fruntend hai</p>
+      Hello Santosh Here is your Application Form
     </h4>
 
   </center>
